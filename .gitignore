@@ -1,0 +1,7 @@
+a.smiec
+*.DS_Store
+*.iml
+*.xml
+*.config
+out/*
+
